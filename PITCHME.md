@@ -1,8 +1,8 @@
 ---
 
-### R
-### OpenCPU Spark Executor
-### (ROSE)
+### HIPAA/Security 
+### Batting down the hatches at Pypestream
+
 
 <span style="color:gray">An Apache Spark Package</span>
 

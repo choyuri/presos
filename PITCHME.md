@@ -190,16 +190,19 @@ rResultStream.foreachRDD { resultRDD => {
 #### Example Hack  CSRF 
 ![ROSE Deployment](https://raw.githubusercontent.com/choyuri/presos/hipaa-preso/assets/preso_csrf_sites.png)
 
-
 ---
-
-
 #### CSRF Defense example
 ![ROSE Deployment](https://raw.githubusercontent.com/choyuri/presos/hipaa-preso/assets/preso_csrf_defense.png)
- 
+---
 
+#### Example Hack  Protocol downgrade attack 
+![ROSE Deployment](https://raw.githubusercontent.com/choyuri/presos/hipaa-preso/assets/preso_protocol_downgrade_attack.png)
 
 ---
+#### Defense example
+![ROSE Deployment](https://raw.githubusercontent.com/choyuri/presos/hipaa-preso/assets/preso_hsts_defense.png)
+---
+
 
 #### Deployment 2. Remote Cluster
 ![ROSE Deployment Alt](https://onetapbeyond.github.io/resource/img/rose/alt-rose-deploy.jpg)

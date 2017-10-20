@@ -1,22 +1,21 @@
 ---
 
 ### HIPAA/Security 
-### Batting down the hatches at Pypestream
 
 
-<span style="color:gray">An Apache Spark Package</span>
-
----
-
-> Where Apache SparkR lets data scientists use Spark from R,
-> ROSE is designed to let Scala and Java developers use R from Spark.
+<span style="color:gray">Batting down the hatches</span>
 
 ---
 
-### ROSE Apache Spark Package
+> What does a security vulnerability look like? 
+> What measures does technology take to protect ourselves?
 
-  - Offers the full scientific computing power of the R programming language
-  - Within Spark batch and streaming apps on the JVM
+---
+
+###  OWASP Top 10 
+
+  - Guidelines for security web applications
+  - Wealth of research 
 
 ---
 
@@ -188,11 +187,10 @@ rResultStream.foreachRDD { resultRDD => {
 
 ---
 
-#### Deployment 1. Colocated
-![ROSE Deployment](https://onetapbeyond.github.io/resource/img/rose/new-rose-deploy.jpg)
+#### Example Hack  CSRF 
+![ROSE Deployment](https://github.com/choyuri/presos/assets/preso_csrf_sites.png)
 
-<span style="font-size: 0.8em">OpenCPU server per Apache Spark worker node.</span>
-
+<span class="fragment" data-fragment-index="4" style="font-size: 0.8em; color:gray"> CSRF bugs on famous sites <a target="_blank" href="http://www.thetechherald.com/articles/CSRF-bug-on-INGDirect-com-could-have-allowed-fraudulent-transfers">CSRF bug on well known sites.</a> </span>
 ---
 
 #### Deployment 2. Remote Cluster

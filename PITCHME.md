@@ -7,8 +7,8 @@
 
 ---
 
-> What does a security vulnerability look like? 
-> What measures does technology take to protect ourselves?
+  -  What does a security vulnerability look like? 
+  -  What measures does technology take to protect ourselves?
 
 ---
 
@@ -188,9 +188,8 @@ rResultStream.foreachRDD { resultRDD => {
 ---
 
 #### Example Hack  CSRF 
-![ROSE Deployment](https://github.com/choyuri/presos/assets/preso_csrf_sites.png)
+![ROSE Deployment](https://github.com/choyuri/presos/blob/hipaa-preso/assets/preso_csrf_sites.png) 
 
-<span class="fragment" data-fragment-index="4" style="font-size: 0.8em; color:gray"> CSRF bugs on famous sites <a target="_blank" href="http://www.thetechherald.com/articles/CSRF-bug-on-INGDirect-com-could-have-allowed-fraudulent-transfers">CSRF bug on well known sites.</a> </span>
 ---
 
 #### Deployment 2. Remote Cluster

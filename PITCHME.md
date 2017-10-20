@@ -188,7 +188,7 @@ rResultStream.foreachRDD { resultRDD => {
 ---
 
 #### Example Hack  CSRF 
-![ROSE Deployment](https://github.com/choyuri/presos/blob/hipaa-preso/assets/preso_csrf_sites.png) 
+![ROSE Deployment](https://raw.githubusercontent.com/choyuri/presos/hipaa-preso/assets/preso_csrf_sites.png)
 
 ---
 

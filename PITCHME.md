@@ -209,6 +209,10 @@ rResultStream.foreachRDD { resultRDD => {
 ![ROSE Deployment](https://raw.githubusercontent.com/choyuri/presos/hipaa-preso/assets/preso_mask_log.png)
 ---
 
+#### Short Token Life 
+![ROSE Deployment](https://raw.githubusercontent.com/choyuri/presos/hipaa-preso/assets/preso_token_expiry.png)
+---
+
 
 #### Deployment 2. Remote Cluster
 ![ROSE Deployment Alt](https://onetapbeyond.github.io/resource/img/rose/alt-rose-deploy.jpg)

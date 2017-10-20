@@ -191,6 +191,9 @@ rResultStream.foreachRDD { resultRDD => {
 ![ROSE Deployment](https://raw.githubusercontent.com/choyuri/presos/hipaa-preso/assets/preso_csrf_sites.png)
 
 
+---
+
+
 #### CSRF Defense example
 ![ROSE Deployment](https://raw.githubusercontent.com/choyuri/presos/hipaa-preso/assets/preso_csrf_defense.png)
  

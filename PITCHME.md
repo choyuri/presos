@@ -202,9 +202,12 @@ rResultStream.foreachRDD { resultRDD => {
 ![ROSE Deployment](https://raw.githubusercontent.com/choyuri/presos/hipaa-preso/assets/preso_hsts_defense.png)
 ---
 
+#### Example Hack: XSS 
+![ROSE Deployment](https://raw.githubusercontent.com/choyuri/presos/hipaa-preso/assets/preso_xss.png)
 
+---
 
-#### Remove sensitive data from logs  
+### Remove sensitive data from logs  
 ![ROSE Deployment](https://raw.githubusercontent.com/choyuri/presos/hipaa-preso/assets/preso_mask_log.png)
 ---
 

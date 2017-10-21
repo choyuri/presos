@@ -14,8 +14,7 @@
 
 ###  OWASP Top 10 
 
-  - Guidelines for security web applications
-  - Wealth of research 
+  - Guidelines for security web applications put together by internet security experts. 
 
 ---
 
